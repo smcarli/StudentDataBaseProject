@@ -1,4 +1,4 @@
-# StudentDataBaseProject
+# Student Database Project
 
 ## By Siena Carli
 
