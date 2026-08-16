@@ -4,7 +4,7 @@
 
 A student database management system built using C++ in VS Code
 
-## What it can do
+## What it can do:
 - Add students
 - View all students
 - Search for students by ID numbers
@@ -24,7 +24,7 @@ A student database management system built using C++ in VS Code
 - GitHub
 - File I/O
 
-## What I learned
+## What I learned:
 - The basics of the C++ programming language 
 - How to use Visual Studio Code to create and run a C++ project
 - How to build functions and vectors in C++

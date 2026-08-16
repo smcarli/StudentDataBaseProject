@@ -65,8 +65,8 @@ int main()
     return 0;
 }
 
-//add new student
-void addStudent(std::vector<Student>& students) {
+        //add new student
+        void addStudent(std::vector<Student>& students) {
             Student newStudent;
 
             std::cout << "\nEnter Student ID: ";
